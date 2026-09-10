@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PranavVinit1/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PranavVinit1/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/PranavVinit1/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
