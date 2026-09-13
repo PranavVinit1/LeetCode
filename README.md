@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PranavVinit1/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/PranavVinit1/LeetCode/tree/master/0189-rotate-array) |
+| [0643-maximum-average-subarray-i](https://github.com/PranavVinit1/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/PranavVinit1/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/PranavVinit1/LeetCode/tree/master/0896-monotonic-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PranavVinit1/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PranavVinit1/LeetCode/tree/master/0189-rotate-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PranavVinit1/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
